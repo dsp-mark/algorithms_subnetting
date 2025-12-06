@@ -1,6 +1,6 @@
 # Algorithm Practise: Subnetting (IPv4)
 
-__Live Version__ An interactive webpage can be found [here](https://de-mark.github.io/algorithms_subnetting/)
+__Live Version__ An interactive webpage can be found [here](https://dsp-mark.github.io/algorithms_subnetting/)
 
 ## What is Subnetting?
 
